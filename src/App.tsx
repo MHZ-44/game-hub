@@ -44,7 +44,6 @@ function App() {
         </Flex>
         <GameGrid gameQuery = {gameQuery}/>
       </GridItem>
-
     </Grid>
   )
 }
