@@ -7,7 +7,7 @@ import { IconType } from "react-icons"
 import { Platform } from "../hooks/usePlatforms"
 
 interface Props{
-    platforms: Platform[]
+  platforms: Platform[]
 }
 
 const PlatformIconList = ({platforms}: Props) => {
